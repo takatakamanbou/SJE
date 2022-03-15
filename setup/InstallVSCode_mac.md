@@ -1,4 +1,4 @@
-# Visual Studio Code のインストール Mac編
+# Visual Studio Code のインストール macOS編
 
 [setupへ戻る](README.md)
 

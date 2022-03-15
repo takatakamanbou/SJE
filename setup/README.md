@@ -20,3 +20,9 @@ Python プログラミングのためには，次のようなものが必要で�
 ## 第一部 VSCode, Python のインストールとはじめての Python プログラミング
 
 次のことを順次やりましょう．
+
+1. VSCode のインストール
+    - [Windows編](InstallVSCode_win.md)
+    - [macOS編](InstallVSCode_mac.md)
+
+1. Python のインストール
