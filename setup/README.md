@@ -39,13 +39,13 @@ Python プログラミングのためには，次のようなものが必要で�
 
 この授業では，**OpenCV** や **NumPy** といったソフトウェア・ライブラリを利用します．
 
-- OpenCV: コンピュータビジョンのためのライブラリ．C++ や Python から呼び出して画像処理などいろんなことができる．
-- NumPy: Python 用の科学技術計算ライブラリ
+- [OpenCV](https://opencv.org/): コンピュータビジョンのためのライブラリ．C++ や Python から呼び出して画像処理などいろんなことができる．
+- [NumPy](https://numpy.org/): Python 用の科学技術計算ライブラリ
 
 次のように `pip3` コマンドを実行することで，これらをインストールすることができます．
 
 ```
->pip3 install opencv-python
+> pip3 install opencv-python
 ```
 
 一見 OpenCV しかインストールしてないようですが，OpenCV は NumPy に依存しているので，NumPy も自動的にインストールされます．
