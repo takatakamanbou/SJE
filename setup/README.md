@@ -26,3 +26,5 @@ Python プログラミングのためには，次のようなものが必要で�
     - [macOS編](InstallVSCode_mac.md)
 
 1. Python のインストール
+    - [Windows編](InstallPython_win.md)
+    - [macOS編](InstallPython_mac.md)
