@@ -1,5 +1,7 @@
 # Visual Studio Code のインストール Windows編
 
+[setupへ戻る](README.md)
+
 <img src="ssVSCode_download.png" width="100%">
 
 **(1) ダウンロードサイトへ**: https://code.visualstudio.com/download
@@ -26,3 +28,5 @@
 **(4) 起動**
 
 インストールが完了すると自動で起動するかもしれませんが，通常は，デスクトップのアイコンをクリック，またはスタートメニューから「Visual Studio Code」を選択して起動します． 起動後は，タスクバーのアイコンを右クリック（またはCTRL押しながらクリック）して「タスクバーへピン留め」しとくとよいでしょう．
+
+[setupへ戻る](README.md)

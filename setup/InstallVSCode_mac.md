@@ -1,6 +1,6 @@
 # Visual Studio Code のインストール Mac編
 
-[setupへ戻る](./README.md)
+[setupへ戻る](README.md)
 
 <img src="ssVSCode_download.png" width="100%">
 
@@ -24,3 +24,5 @@
 **(4) 起動**
 
 Finderから 「アプリケーション」の中のアイコンをクリックするか，または「Launchpad」から． 起動後は，Dockのアイコンを右クリック（またはCTRL押しながらクリック）して「オプション」 > 「Dockへ追加」しとくとよいでしょう．
+
+[setupへ戻る](README.md)
