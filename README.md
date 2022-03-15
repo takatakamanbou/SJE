@@ -5,3 +5,4 @@
 - [setup/README.md](./setup/README.md)
 - [ex01.md](./ex01.md)
 - [ex02.md](./ex02.md)
+- [ex03.md](./ex03.md)
