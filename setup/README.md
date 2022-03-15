@@ -32,3 +32,12 @@ Python プログラミングのためには，次のようなものが必要で�
 1. 環境整備＋はじめての Python プログラミング
     - [Windows編](mkdir_hoge_py_win.md)
     - [macOS編](mkdir_hoge_py_mac.md)
+
+## 第二部 OpenCV等のインストールとはじめての Notebook
+
+### OPenCV 等のインストール
+
+この授業では，**OpenCV** や **NumPy** といったソフトウェア・ライブラリを利用します．
+
+- OpenCV: コンピュータビジョンのためのライブラリ．C++ や Python から呼び出して画像処理などいろんなことができる．
+- NumPy: Python 用の科学技術計算ライブラリ
