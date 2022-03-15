@@ -19,7 +19,8 @@ https://www.python.org/ から Python のパッケージをダウンロードし
     - 「Install launcher for all users」 という項目にデフォルトでチェックがついてる．このままだと，自分以外のユーザも使えるように設定することになるが，管理者権限が必要となる．「管理者権限をもってない」場合や「他のユーザでも使えるようにする必要はない」場合は，チェックはずせばよい
     - **【注意】「Add Python 3.X to PATH」という項目にはデフォルトではチェックがついてない．必ずチェックをつける．**
 <img src="ssInstallPython_win.png" width="100%">
-1. 「Install Now」をクリックしてインストール開始．
+
+3. 「Install Now」をクリックしてインストール開始．
 1. 完了すると「Setup was successful」と表示される．
 1. 「Close」を押す．
 
