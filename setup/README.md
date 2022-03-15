@@ -28,3 +28,7 @@ Python プログラミングのためには，次のようなものが必要で�
 1. Python のインストール
     - [Windows編](InstallPython_win.md)
     - [macOS編](InstallPython_mac.md)
+
+1. 環境整備＋はじめての Python プログラミング
+    - [Windows編](mkdir_hoge_py_win.md)
+    - [macOS編](mkdir_hoge_py_mac.md)
