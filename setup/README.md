@@ -56,3 +56,17 @@ NumPy のインストールは
 ```
 
 でできますが，今の場合は `Requirement already satisfied` と言われるはずです．
+
+### Jupyter Notebook を扱えるようにする
+
+Jupyter Notebook というのは，ブラウザを利用して Python のコードを書いたり実行したりできる仕組みです．「データ分析」などの授業で Google Colaboratory (Colab) という似たようなものを触ったことがあるはずです．Colab はクラウドの仮想Linuxマシン上で実行されるものでしたが，Jupyter Notebook の方は自分のPCにインストールした Python 環境でプログラムが実行されます．
+
+(1) Jupyter をインストールする
+```
+> pip3 install jupyter
+```
+
+(2) notebook ファイルを入手
+
+(3) VSCode で開いてみる
+
