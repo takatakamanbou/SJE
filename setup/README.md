@@ -42,17 +42,17 @@ Python プログラミングのためには，次のようなものが必要で�
 - [OpenCV](https://opencv.org/): コンピュータビジョンのためのライブラリ．C++ や Python から呼び出して画像処理などいろんなことができる．
 - [NumPy](https://numpy.org/): Python 用の科学技術計算ライブラリ
 
-次のように `pip3` コマンドを実行することで，これらをインストールすることができます．
+次のように `pip` コマンドを実行することで，これらをインストールすることができます．
 
 ```
-pip3 install opencv-python
+pip install opencv-python
 ```
 
 一見 OpenCV しかインストールしてないようですが，OpenCV は NumPy に依存しているので，NumPy も自動的にインストールされます．
 NumPy のインストールは
 
 ```
-pip3 install numpy
+pip install numpy
 ```
 
 でできますが，今の場合は `Requirement already satisfied` と言われるはずです．
@@ -63,7 +63,7 @@ Jupyter Notebook というのは，ブラウザを利用して Python のコー�
 
 (1) Jupyter をインストールする
 ```
-> pip3 install jupyter
+> pip install jupyter
 ```
 
 (2) notebook ファイルを入手
@@ -74,5 +74,5 @@ Jupyter Notebook というのは，ブラウザを利用して Python のコー�
 
 (3) VSCode で開いてみる
 
-入手したファイルをVSCodeで開いて，そこに書いてあることを実行してみましょう．うまくいかないときは takataka に尋ねてね．
+入手したファイルを SJE フォルダに置いて VSCode で開き，そこに書いてあることを実行してみましょう．上記の設定直後は，VSCode がインストールされた jupyter を見つけられなくて，「Select Kernel」というポップアップが出て先へ進められなくなるかもしれません．その場合は，VSCode を起動し直せば大丈夫だと思います．うまくいかないときは takataka に尋ねてね．
 
