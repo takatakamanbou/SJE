@@ -16,7 +16,7 @@ macOS では最初から Python が入ってたり，Apple が提供している
 
 1. Finder で「ダウンロード」フォルダを開き， ダウンロードした pkg ファイルをダブルクリック． Python インストーラが起動する．
 1. インストーラの説明を読んで先へ進み，インストールを開始
-1. Finderで「アプリケーション」フォルダを開くと，「Python 3.11」というフォルダができているはず
+1. Finderで「アプリケーション」フォルダを開くと，「Python 3.12」というフォルダができているはず
 
 <img src="ssInstallPython_mac1.png" width="100%">
 <img src="ssInstallPython_mac2.png" width="100%">

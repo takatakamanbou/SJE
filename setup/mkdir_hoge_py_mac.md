@@ -16,12 +16,12 @@
 
 **(2) ターミナルを開いて以下のようにコマンドを実行する．**
 
-各行の先頭の `%` は自分で入力する文字ではありません．
+各行の先頭の `$` は自分で入力する文字ではありません．
 
 ```
-%  cd
-%  cd  Desktop
-%  mkdir  SJE
+$  cd
+$  cd  Desktop
+$  mkdir  SJE
 ```
 
 **(3) デスクトップに SJE フォルダができているはず**
@@ -66,7 +66,7 @@ print('ほげほげ')
 - VSCode 内にターミナルのウィンドウが表示されてなければ，「表示」>「ターミナル」で開けます
 - `hoge.py` を実行するには次のように入力して Enter （`%` は自分が打つ文字ではありません）．
     ```
-    % python3  hoge.py
+    $ python3  hoge.py
     ```
 
 <img src="ssVSCode-python3.png" width="100%">
@@ -76,20 +76,20 @@ print('ほげほげ')
 1. ターミナルを起動
 1. `cd` コマンドでフォルダを移動．以下のように `cd` コマンドを実行すれば SJE フォルダへ移動できる．
     ```
-    % cd Desktop/SJE
+    $ cd Desktop/SJE
     ```
     かわりに，次のように cd を2回実行してもよい．
     ```
-    % cd Desktop
-    % cd SJE
+    $ cd Desktop
+    $ cd SJE
     ```
 1. `ls` コマンドで現在のフォルダの内容を一覧．`hoge.py` が見えるはず．
     ```
-    % ls
+    $ ls
     ```
 1. `python3` コマンドを，引数に `hoge.py` を指定して実行．
     ```
-    % python3  hoge.py
+    $ python3  hoge.py
     ```
 1. ちゃんと実行されて結果が表示されることを確認しよう
 
