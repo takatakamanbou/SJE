@@ -25,4 +25,11 @@
 
 Finderから 「アプリケーション」の中のアイコンをクリックするか，または「Launchpad」から． 起動後は，Dockのアイコンを右クリック（またはCTRL押しながらクリック）して「オプション」 > 「Dockへ追加」しとくとよいでしょう．
 
+**(5) メニュー等の日本語化** （必要なら）
+
+1. サイドバーの「Extensions」アイコンをクリックすると，Extensions（拡張機能）の検索窓が開くので，「japanese」で検索．
+1. 候補一覧の中から，Microsoft が提供している「Japanese Language Pack for Visual Studio」を探して「install」を押す．
+1. 指示に従って VSCode を再起動
+
+
 [setupへ戻る](README.md)
